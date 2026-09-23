@@ -1,3 +1,5 @@
+> **Archived.** Concept landing page for [HausPet](https://github.com/MaryanPrydatko/HausPetApp), the SummerUP 2025 prototype. The collar and the pre-order flow were never a real product, and hauspet.net is no longer live.
+
 # HausPet Smart Collar Landing Page
 
 [![License: UNLICENSED](https://img.shields.io/badge/License-UNLICENSED-red.svg)](LICENSE)
